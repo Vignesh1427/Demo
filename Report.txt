@@ -1,0 +1,12 @@
+Project structure
+*Using c# in Visual Studio through MVC.
+*Creating Login and Register page
+
+ MVC is an application design model comprised of three interconnected parts. They include the model (data), the view (user interface), and the controller (processes that handle input).
+  Model
+    data used by a program.Ex:database file
+  View 
+    Displaying objects in that application
+    Ex:it can be anything user that can see like button,text.
+    Controller
+    Controller update both model and view.It accepts input and performs the corresponding update.
